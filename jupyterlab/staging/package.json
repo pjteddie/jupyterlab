@@ -150,7 +150,7 @@
     "@jupyterlab/codemirror-extension": "~4.1.1",
     "@jupyterlab/completer-extension": "~4.1.1",
     "@jupyterlab/console-extension": "~4.1.1",
-    "@jupyterlab/coreutils": "~6.1.1",
+    "@jupyterlab/coreutils": "~6.2.5",
     "@jupyterlab/csvviewer-extension": "~4.1.1",
     "@jupyterlab/debugger-extension": "~4.1.1",
     "@jupyterlab/docmanager-extension": "~4.1.1",
